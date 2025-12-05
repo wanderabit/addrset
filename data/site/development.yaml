@@ -1,0 +1,163 @@
+name: github
+description: GitHub and its assets, services, APIs, image registry, package manager, and status page
+tag: [site-github, category-development, by-gfw]
+domain:
+  - .codespaces.new
+  - .ghcr.io
+  - .github.com
+  - .github.community
+  - .github.dev
+  - .github.io
+  - .githubapp.com
+  - .githubassets.com
+  - .githubcopilot.com
+  - .githubstatus.com
+  - .githubusercontent.com
+---
+name: gitlab
+description: GitLab and its assets, services, APIs, container registry, package manager, and status page
+tag: [site-gitlab, category-development, by-gfw]
+domain:
+  - .gitlab-assets.com
+  - .gitlab-static.net
+  - .gitlab-status.com
+  - .gitlab.com
+  - .gitlab.io
+---
+name: docker
+description: Docker Inc and docker image registry
+tag: [site-docker, category-development, by-gfw]
+domain:
+  - .docker.com
+  - .docker.io
+---
+name: quay
+tag: [site-quay, category-development, by-gfw]
+domain:
+  - .quay.io
+---
+name: linuxserver
+tag: [site-linuxserver, category-development, by-gfw]
+domain:
+  - .linuxserver.io
+  - .lscr.io
+---
+name: go
+description: Go programming language and its package repositories
+tag: [site-go, category-development, by-gfw]
+domain:
+  - .go.dev
+  - .golang.org
+---
+name: nodejs
+description: Node.js official website and its assets
+tag: [site-nodejs, category-development, by-gfw]
+domain:
+  - .nodejs.org
+  - .nodesource.com
+---
+name: npm
+description: NPM package manager
+tag: [site-npm, category-development, by-gfw]
+domain:
+  - .fastly.net
+  - .jsdelivr.net
+  - .npmjs.com
+  - .npmjs.org
+  - .npmmirror.com
+  - .registry.npmjs.org
+  - .unpkg.com
+---
+name: python
+description: Python and Python Package Index
+tag: [site-python, category-development, by-gfw]
+domain:
+  - .pypi.org
+  - .python.org
+---
+name: debian
+description: Debian operating system and its package repositories
+tag: [site-debian, category-development, by-gfw]
+domain:
+  - .debian.com
+  - .debian.net
+  - .debian.org
+---
+name: ubuntu
+description: Ubuntu operating system and its package repositories
+tag: [site-ubuntu, category-development, by-gfw]
+domain:
+  - .canonical.com
+  - .launchpad.net
+  - .ubuntu.com
+---
+name: archlinux
+description: Arch Linux operating system and its package repositories
+tag: [site-archlinux, category-development, by-gfw]
+domain:
+  - .archlinux.org
+  - .pkgbuild.com
+---
+name: manjaro
+description: Manjaro Linux operating system and its package repositories
+tag: [site-manjaro, category-development, by-gfw]
+domain:
+  - .manjaro.org
+---
+name: alpine
+description: Alpine Linux operating system and its package repositories
+tag: [site-alpine, category-development, by-gfw]
+domain:
+  - .alpinelinux.org
+---
+name: letsencrypt
+tag: [site-letsencrypt, category-development, by-gfw]
+domain:
+  - .letsencrypt.org
+---
+name: homebrew
+tag: [site-homebrew, category-development, by-gfw]
+domain:
+  - .brew.sh
+  - .homebrew.sh
+---
+name: grafana
+description: Grafana and its assets, services, and APIs
+tag: [site-grafana, category-development, by-gfw]
+domain:
+  - .grafana.com
+  - .grafana.net
+  - .grafana.org
+---
+name: proxmox
+description: Proxmox and its assets, services, and APIs
+tag: [site-proxmox, category-development, by-gfw]
+domain:
+  - .proxmox.com
+  - .proxmox.net
+---
+name: vultr
+description: Vultr cloud services and assets
+tag: [site-vultr, category-development, by-gfw]
+domain:
+  - .vultr.com
+  - .vultrcr.com
+---
+name: digitalocean
+description: DigitalOcean cloud services and assets
+tag: [site-digitalocean, category-development, by-gfw]
+domain:
+  - .digitalocean.com
+  - .digitaloceanspaces.com
+---
+name: cloudsmith
+description: Cloudsmith package management and software supply chain
+tag: [site-cloudsmith, category-development, by-gfw]
+domain:
+  - .cloudsmith.io
+---
+name: tailscale
+description: Tailscale service and assets
+tag: [site-tailscale, category-development] # by-gfw removed from tag, some tailscaled not work behind proxy
+domain:
+  - .tailscale.com

@@ -1,0 +1,34 @@
+{
+  "arrowParens": "always",
+  "bracketSameLine": true,
+  "objectWrap": "preserve",
+  "bracketSpacing": true,
+  "semi": true,
+  "experimentalOperatorPosition": "start",
+  "experimentalTernaries": false,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "quoteProps": "preserve",
+  "trailingComma": "all",
+  "singleAttributePerLine": false,
+  "htmlWhitespaceSensitivity": "css",
+  "vueIndentScriptAndStyle": false,
+  "proseWrap": "preserve",
+  "insertPragma": false,
+  "printWidth": 128,
+  "requirePragma": false,
+  "tabWidth": 4,
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "plugins": ["prettier-plugin-organize-imports"],
+  "overrides": [
+    {
+      "files": ["*.json", "*.jsonc", "*.yaml"],
+      "options": {
+        "bracketSpacing": false,
+        "printWidth": 4096,
+        "tabWidth": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+name: duckduckgo
+tag: [site-duckduckgo, by-gfw]
+domain:
+  - .duck.ai
+  - .duck.com
+  - .duckduckgo.com
+  - .duckduckgo.org
+  - .spreadprivacy.com
+---
+name: google
+tag: [site-google, by-gfw]
+domain:
+  - .admob.com
+  - .ads.google.com
+  - .android.com
+  - .blogger.com
+  - .blogspot.com
+  - .chrome.com
+  - .chromium.org
+  - .cloud.google.com
+  - .deepmind.com
+  - .domains.google
+  - .doubleclick.net
+  - .firebase.com
+  - .fitbit.com
+  - .g.co
+  - .ggpht.com
+  - .gmail.com
+  - .google.ai
+  - .google.ca
+  - .google.cn
+  - .google.co.id
+  - .google.co.in
+  - .google.co.jp
+  - .google.co.kr
+  - .google.co.nz
+  - .google.co.th
+  - .google.co.uk
+  - .google.com
+  - .google.com.au
+  - .google.com.br
+  - .google.com.cn
+  - .google.com.hk
+  - .google.com.mx
+  - .google.com.my
+  - .google.com.pk
+  - .google.com.sg
+  - .google.com.tw
+  - .google.com.vn
+  - .google.de
+  - .google.es
+  - .google.fr
+  - .google.it
+  - .google.ph
+  - .googleadservices.com
+  - .googleads.com
+  - .google-analytics.com
+  - .googleapps.com
+  - .googlecloud.com
+  - .googlecode.com
+  - .googlechrome.com
+  - .googledomains.com
+  - .googleearth.com
+  - .googlefiber.net
+  - .googlepay.com
+  - .googlephotos.com
+  - .googleplay.com
+  - .googlesource.com
+  - .googlesyndication.com
+  - .googletagmanager.com
+  - .googletagservices.com
+  - .googleusercontent.cn
+  - .googleusercontent.com
+  - .googleventures.com
+  - .googlevideo.com
+  - .gstatic.com
+  - .gv.com
+  - .map.google.com
+  - .nest.com
+  - .picasaweb.com
+  - .play.google.com
+  - .recaptcha.net
+  - .research.google
+  - .tensorflow.org
+  - .wallet.google.com
+  - .waymo.com
+  - .withgoogle.com
+  - .yt.be
+  - .youtube.com
+  - .youtube-nocookie.com
+  - .ytimg.com
+---
+name: microsoft
+tag: [site-microsoft]
+domain:
+  - .aka.ms
+  - .azure.com
+  - .azureedge.net
+  - .azurewebsites.net
+  - .cloudapp.net
+  - .dynamics.com
+  - .flow.microsoft.com
+  - .hololens.com
+  - .linkedin.com
+  - .live.com
+  - .microsoft.com
+  - .microsoft365.com
+  - .microsoftazure.com
+  - .microsoftcloud.com
+  - .microsoftedge.com
+  - .microsoftonline.com
+  - .microsofttranslator.com
+  - .microsoftstore.com
+  - .msauth.net
+  - .msecnd.net
+  - .msedge.net
+  - .msftauth.net
+  - .msftauthimages.net
+  - .msftconnecttest.com
+  - .msftstatic.com
+  - .msn.com
+  - .nuget.org
+  - .office.com
+  - .office365.com
+  - .onenote.com
+  - .onedrive.com
+  - .outlook.com
+  - .phonefactor.net
+  - .powerbi.com
+  - .powerapps.com
+  - .sharepoint.com
+  - .skype.com
+  - .surface.com
+  - .teams.microsoft.com
+  - .visualstudio.com
+  - .vscode.dev
+  - .windows.com
+  - .windows.net
+  - .windowsazure.com
+  - .windowsupdate.com
+  - .xbox.com
+  - .yammer.com
+---
+name: apple
+tag: [site-apple]
+domain:
+  - .apple.co
+  - .apple.com
+  - .apple.com.edgesuite.net
+  - .apple-cloudkit.com
+  - .apple-livephotoskit.com
+  - .apple-mapkit.com
+  - .apple-relay.cloudflare.com
+  - .apple-relay.fastly-edge.com
+  - .appleschoolcontent.com
+  - .apps.apple.com
+  - .apps-marketplace.apple.com
+  - .apzones.com
+  - .cdn-apple.com
+  - .cp4.cloudflare.com
+  - .icloud.com
+  - .icloud.com.cn
+  - .icloud-content.com
+  - .icloud-content.com.cn
+  - .itunes.apple.com
+  - .iwork.apple.com
+  - .mac.com
+  - .me.com
+  - .mzstatic.com
+  - .safebrowsing.apple
+  - .shazam.com
+  - .smoot.apple.com
+  - .vertexsmb.com
+---
+name: torrentdht
+description: Torrent DHT bootstrap nodes
+tag: [site-torrentdht, by-gfw]
+domain:
+  - .dht.libtorrent.org
+  - .dht.transmissionbt.com
+  - .router.bittorrent.com
+  - .router.utorrent.com
+---
+name: tutanota
+description: Tutanota secure email service
+tag: [site-tutanota, by-gfw]
+domain:
+  - .tuta.com
+  - .tutanota.com
+---
+name: proton
+description: Proton secure services
+tag: [site-proton, by-gfw]
+domain:
+  - .proton.me
+  - .protonmail.com

@@ -1,0 +1,84 @@
+name: huggingface
+tag: [site-huggingface, category-ai, category-development, by-gfw]
+domain:
+  - .huggingface.co
+  - .huggingface.com
+---
+name: ollama
+tag: [site-ollama, category-ai, category-development, by-gfw]
+domain:
+  - .ollama.com
+  - .ollama.ai
+---
+name: openrouter
+tag: [site-openrouter, category-ai, category-development, by-gfw]
+domain:
+  - .openrouter.ai
+  - .openrouter.com
+---
+name: perplexity
+tag: [site-perplexity, category-ai, by-gfw]
+domain:
+  - .perplexity.ai
+  - .perplexity.com
+---
+name: openai
+tag: [site-openai, category-ai, by-gfw]
+domain:
+  - .openai.com
+  - .chatgpt.com
+---
+name: anthropic
+tag: [site-anthropic, category-ai, by-gfw]
+domain:
+  - .anthropic.com
+  - .claude.ai
+---
+name: xai
+tag: [site-xai, category-ai, by-gfw]
+domain:
+  - .x.ai
+  - .xai.com
+  - .grok.com
+---
+name: cohere
+tag: [site-cohere, category-ai, by-gfw]
+domain:
+  - .cohere.com
+  - .cohere.ai
+---
+name: gemini
+tag: [site-gemini, category-ai, by-gfw]
+domain:
+  - .gemini.google.com
+  - .gemini.com
+---
+name: midjourney
+tag: [site-midjourney, category-ai, by-gfw]
+domain:
+  - .midjourney.com
+  - .midjourney.ai
+---
+name: stabilityai
+tag: [site-stabilityai, category-ai, by-gfw]
+domain:
+  - .stability.ai
+  - .stability.com
+---
+name: ai21labs
+tag: [site-ai21labs, category-ai, by-gfw]
+domain:
+  - .ai21.com
+  - .ai21labs.com
+---
+name: llamaindex
+tag: [site-llamaindex, category-ai, by-gfw]
+domain:
+  - .llamaindex.com
+  - .llamaindex.ai
+---
+name: together
+tag: [site-together, category-ai, by-gfw]
+domain:
+  - .together.xyz
+  - .together.ai
