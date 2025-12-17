@@ -7,7 +7,7 @@ await makeAndCleanDir("./dist/rir");
 
 await Promise.all(
     Object.entries(RIR).map(async ([name, url]) => {
-        const resp = await ky.get(url);
+        const resp = await ky.get(url, { retry: 5, timeout: 1000 * 60 });
         const data = await resp.text();
         await fs.promises.writeFile(`./dist/rir/delegated-${name}-extended-latest`, data);
         console.log(`Download delegated-${name}-extended-latest finish`);
