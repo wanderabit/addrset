@@ -22,6 +22,10 @@ The website list is organized by tags, and in the output data, addresses with th
 
 ### 输出文件 Output Files
 
+此仓库的构建会部署到 The build of this repository is deployed to
+
+https://wanderabit.github.io/addrset
+
 ```yaml
 - ./dist/ip/v4/*.txt          # IPv4 CIDR 文件，按标签命名，如 cn.txt IPv4    CIDR files, named by tag, e.g., cn.txt
 - ./dist/ip/v6/*.txt          # IPv6 CIDR 文件，按标签命名，如 us.txt IPv6    CIDR files, named by tag, e.g., us.txt
@@ -37,7 +41,7 @@ rule-providers:
   category-ai:
   type: http
   behavior: classical
-  url: https://<addrset-host-server>/clash/category-ai.yaml
+  url: https://wanderabit.github.io/addrset/clash/category-ai.yaml
   interval: 3600
   proxy: PROXY
 rules:
