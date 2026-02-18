@@ -82,3 +82,8 @@ tag: [site-together, category-ai, by-gfw]
 domain:
   - .together.xyz
   - .together.ai
+---
+name: Groq
+tag: [site-groq, category-ai, by-gfw]
+domain:
+  - .groq.com
